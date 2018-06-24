@@ -1,4 +1,4 @@
-# Python-Proof-Of-Work
+# Proof-Of-Work
 A system made from basic understanding of Proof-of-work system powering cryptocurrencies.
 
 # Requirements:
