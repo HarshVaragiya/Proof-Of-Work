@@ -1,5 +1,5 @@
 # Python-Proof-Of-Work
-A Very basic system made from basic understanding of Proof-of-work system powering cryptocurrencies.
+A system made from basic understanding of Proof-of-work system powering cryptocurrencies.
 
 # Requirements:
 PyCryptoDome (or Pycrypto - Not recommended) For Cryptographically Secure Random Number Generator for Better(More Even) Probability Distibution of Generated Random Numbers.
