@@ -11,7 +11,7 @@ pip install pycryptodome
 
 # Usage:
 ```bash
-python3 Miner.py
+python3 Main.py
 ```
 # Lessons:
 1. Got to learn and read a lot about proof-of-work and the technologies powering the cryptocurrencies.
